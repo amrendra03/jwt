@@ -8,7 +8,7 @@ public class JwtApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JwtApplication.class, args);
-		System.out.println("Started...");
+		System.out.println("Started jwt authentication...");
 
 	}
 
